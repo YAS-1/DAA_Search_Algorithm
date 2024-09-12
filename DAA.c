@@ -31,9 +31,9 @@ int main() {
 
 	int maximum = FindMaxElement(arr, size);
 	
-    if(maximum != -1){
+    
     	printf("The maximum element is %d",maximum);
-    }
+    
 
 	return 0;
 }
